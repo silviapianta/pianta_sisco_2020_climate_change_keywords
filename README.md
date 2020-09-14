@@ -1,4 +1,4 @@
-# pianta_sisco_2020_climate_change_keywords
+# pianta_sisco_2020_climate_change_media
 
 
 This folders contains documents related to the publication:
